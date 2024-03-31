@@ -1,16 +1,12 @@
-# nextplaygames
+# NextPlay 🏈
+# A Card Game You Play While Watching a Football Game on TV!
 
-A new Flutter project.
+<img width="1512" alt="Screenshot 2024-03-31 at 12 50 45 AM" src="https://github.com/jamalvh/nextplay/assets/113135025/8ed24422-e971-4c82-8263-fb0ce7d902cf">
 
-## Getting Started
+# Drag Your Card to Predict the Play!
 
-This project is a starting point for a Flutter application.
+<img width="1512" alt="Screenshot 2024-03-31 at 12 52 06 AM" src="https://github.com/jamalvh/nextplay/assets/113135025/278b3f8c-fdb4-4645-a9d3-050ea0bbea2b">
 
-A few resources to get you started if this is your first Flutter project:
+# Correct Prediction? Get Points!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1512" alt="Screenshot 2024-03-31 at 12 52 23 AM" src="https://github.com/jamalvh/nextplay/assets/113135025/2f6c68ae-8004-498a-91c7-c208fe5dc74d">
